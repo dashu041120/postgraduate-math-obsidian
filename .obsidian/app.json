@@ -1,0 +1,9 @@
+{
+  "vimMode": true,
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "current",
+  "showUnsupportedFiles": true,
+  "attachmentFolderPath": "./attachments",
+  "uriCallbacks": true,
+  "promptDelete": false
+}
