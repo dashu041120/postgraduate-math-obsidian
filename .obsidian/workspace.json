@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 236,
-    "collapsed": true
+    "width": 236
   },
   "right": {
     "id": "b81af94b1f35fe16",
@@ -187,7 +186,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "77e9143291d564a0",
+  "active": "fe6db290f55a6ad2",
   "lastOpenFiles": [
     "1. 高数/1-1 函数的极限与连续/函数的概念.md",
     "1. 高数/1-1 函数的极限与连续/函数的图像.md",
