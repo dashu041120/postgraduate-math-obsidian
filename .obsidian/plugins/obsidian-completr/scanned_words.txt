@@ -78,6 +78,8 @@ defs
 and
 asset
 arrow
+arcsinx
+arccosx
 make
 meta
 mgj
