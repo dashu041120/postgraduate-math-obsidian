@@ -6,7 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "LiAirplay"
+      "LiAlignHorizontalDistributeCenter",
+      "LiAudioWaveform",
+      "LiAlignCenter",
+      "LiBackpack",
+      "LiActivity"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -30,5 +34,11 @@
     "debugMode": false,
     "useInternalPlugins": false
   },
-  "Welcome.md": "LiAirplay"
+  "Welcome.md": "LiAirplay",
+  "1. 高数": "LiAward",
+  "1. 高数/1-1 函数的极限与连续": "LiActivity",
+  "1. 高数/1-1 函数的极限与连续/attachments": "LiBackpack",
+  "1. 高数/1-1 函数的极限与连续/函数极限的概念与性质.md": "LiAlignCenter",
+  "1. 高数/1-1 函数的极限与连续/函数的图像.md": "LiAudioWaveform",
+  "1. 高数/1-1 函数的极限与连续/函数的概念.md": "LiAlignHorizontalDistributeCenter"
 }
