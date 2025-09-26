@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "77e9143291d564a0",
+            "id": "5276572c272c6159",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,8 +20,37 @@
               "icon": "lucide-file",
               "title": "函数极限的概念与性质"
             }
+          },
+          {
+            "id": "6be94d42ed905739",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. 高数/1-1 函数的极限与连续/计算.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "计算"
+            }
+          },
+          {
+            "id": "8842bd6397f36ece",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. 高数/1-1 函数的极限与连续/函数的连续与间断.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "函数的连续与间断"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -53,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\\tan x-\\sin",
+                "query": "洛必达",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +107,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 236
+    "width": 206
   },
   "right": {
     "id": "b81af94b1f35fe16",
@@ -133,7 +162,7 @@
                 "searchQuery": ""
               },
               "icon": "lucide-tags",
-              "title": "Tags"
+              "title": "标签"
             }
           },
           {
@@ -142,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. 高数/1-1 函数的极限与连续/函数的概念.md",
+                "file": "1. 高数/1-1 函数的极限与连续/函数的连续与间断.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "函数的概念 的大纲"
+              "title": "函数的连续与间断 的大纲"
             }
           },
           {
@@ -196,12 +225,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "77e9143291d564a0",
+  "active": "7d38d7ac86ef5617",
   "lastOpenFiles": [
-    "1. 高数/1-1 函数的极限与连续/未命名.md",
+    "1. 高数/1-1 函数的极限与连续/计算.md",
+    "1. 高数/1-1 函数的极限与连续/函数的连续与间断.md",
     "1. 高数/1-1 函数的极限与连续/函数极限的概念与性质.md",
+    "1. 高数/1-1 函数的极限与连续/attachments/Pasted image 20250921223010.png",
+    "1. 高数/1-1 函数的极限与连续/attachments/Pasted image 20250921223009.png",
+    "未命名.canvas",
+    "1. 高数/1-1 函数的极限与连续/attachments/Pasted image 20250921210225.png",
     "1. 高数/1-1 函数的极限与连续/函数的图像.md",
     "1. 高数/1-1 函数的极限与连续/函数的概念.md",
+    "1. 高数/1-1 函数的极限与连续/1. 函数的极限与联系.md",
     "1. 高数/1-1 函数的极限与连续/attachments/函数极限的概念与性质 2025-09-17 17.15.53.excalidraw.md",
     "1. 高数/1-1 函数的极限与连续/attachments/函数极限的概念与性质 2025-09-17 16.46.15.excalidraw.md",
     "Excalidraw/Drawing 2025-09-17 16.45.33.excalidraw.md",
@@ -211,7 +246,6 @@
     "1. 高数/1-1 函数的极限与连续/attachments/Ink",
     "1. 高数/1-1 函数的极限与连续/attachments/Pasted image 20250916133130.png",
     "1. 高数/1-1 函数的极限与连续/attachments/Pasted image 20250916133121.png",
-    "1. 高数/1-1 函数的极限与连续/1. 函数的极限与联系.md",
     "未命名",
     "README.md",
     "1. 高数/1-1 函数的极限与连续/attachments/Ink/Writing/2025.9.14 - 14.20pm.writing",
